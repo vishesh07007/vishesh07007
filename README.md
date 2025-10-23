@@ -1,9 +1,10 @@
-<div align="center">
+## Try these different URLs:
 
-# Hi there! 👋 I'm Vishesh
+<!-- Option 1 -->
+![3D Graph](https://github-profile-3d-contrib.vercel.app/api/?username=vishesh07007)
 
-## 🚀 My GitHub Activity
+<!-- Option 2 -->
+![3D Graph](https://github-profile-3d-contrib.vercel.app/api?username=vishesh07007)
 
-![3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=vishesh07007&theme=nightgreen)
-
-</div>
+<!-- Option 3 -->
+![3D Graph](https://github-profile-3d-contrib.vercel.app/profile-3d-contrib/profile-night-green.svg?username=vishesh07007)
