@@ -31,12 +31,6 @@ from India 🇮🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 </p>
 
 
-<h4 align="center">🔥 GitHub Streak & Contributions 🔥</h4>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vishesh07007&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
-</p>
-
 ---
 
 ## 📈 My Coding Activity
