@@ -21,15 +21,14 @@ from India 🇮🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 <p>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg"title="Spring Tool Suite (STS)"alt="Spring Tool Suite"width="40"height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" title="Docker" alt="Docker" width="50" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" title="n8n" alt="n8n" width="40" height="40"/>&nbsp;
 </p>
 
