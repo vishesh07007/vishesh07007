@@ -7,12 +7,10 @@ from India 🇮🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - 🎓 Computer Science student
 - 💻 Backend developer with **Java & Spring Boot**
-- 🔭 Currently building real-world backend projects
 - 🌱 Learning **advanced Spring Boot**, API design, and automation
 - ⚙️ Interested in **system design, databases, and workflows**
-- 📚 Improving technical communication & English vocabulary
 - 📫 Reach me on LinkedIn:  
-  [![Linkedin Badge](https://img.shields.io/badge/-Vishesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+  [![Linkedin Badge](https://img.shields.io/badge/-Vishesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
 
 ---
 
